@@ -7,12 +7,6 @@ I have made this AUDI logo design using HTML and CSS just for practiced bcoz i f
 ## 🚀 About Me
 I'm a full stack developer...
 
-
-## Screenshots
-
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.linkedin.com/feed/update/urn:li:activity:7111000495837626368/))
-
-
 ## Authors
 
 - [@affancoder](https://github.com/affancoder)
