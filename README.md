@@ -10,7 +10,7 @@ I'm a full stack developer...
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.linkedin.com/feed/update/urn:li:activity:7111000495837626368/))
 
 
 ## Authors
