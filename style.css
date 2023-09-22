@@ -3,12 +3,17 @@
   padding: 0;
   z-index: -10;
 }
+html,
+body {
+  width: 100%;
+  background-color: black;
+}
 .text {
   text-align: center;
   font-size: 6rem;
   z-index: -1;
   margin-top: 50px;
-  font-family: "Bebas Neue", sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   letter-spacing: 8px;
   margin-left: 65px;
   color: red;
@@ -50,4 +55,46 @@
   box-sizing: border-box;
   margin-top: -80px;
   z-index: 100;
+}
+
+/* Responsiveness */
+
+@media (max-width: 550px) {
+  HTML,
+  body {
+    width: 100%;
+  }
+  .text {
+    font-size: 12vw;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-weight: 700;
+    margin-right: 45px;
+  }
+  .box,
+  .container,
+  .box1,
+  .box2,
+  .box3 {
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+  }
+  .container,
+  .box1,
+  .box2,
+  .box3 {
+    border: 5px solid gray;
+  }
+  .box1 {
+    margin-top: -5px;
+    margin-left: 70px;
+  }
+  .box2 {
+    margin-top: -110px;
+    margin-left: 30px;
+  }
+  .box3 {
+    margin-top: -110px;
+    margin-left: 110px;
+  }
 }
